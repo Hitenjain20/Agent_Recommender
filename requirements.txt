@@ -1,0 +1,6 @@
+uvicorn~=0.30.6
+fastapi~=0.112.2
+streamlit~=1.37.1
+python-dotenv~=1.0.1
+llama-index
+python-dotenv
